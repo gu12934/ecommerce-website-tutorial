@@ -1,5 +1,5 @@
 # ecommerce-website-tutorial
-
+*This github repository basically shows various platforms to make websites whether it could be for e-commerce or runinng your own business!
 ***
 * Shopify store
 ***
