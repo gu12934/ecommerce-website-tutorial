@@ -26,6 +26,6 @@
 * carbon wix site - https://sriramkm2002.wixsite.com/c1o2
 
 ***
-* deployed websites
+## Deployed websites
 * github pages - https://gu12934.github.io/
 * React website - https://gurmolthedataguy.netlify.app/
